@@ -1,0 +1,10 @@
+fastapi 
+uvicorn 
+firebase-admin 
+pydantic 
+rnumpy 
+requests 
+python-multipart
+python-dotenv
+firebase_admin
+pillow
